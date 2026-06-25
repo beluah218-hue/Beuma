@@ -1,0 +1,10 @@
+{
+  "name": "Namma Ooru My Village",
+  "description": "A smart civic reporting and village management app where citizens can report issues such as water, roads, electricity, and sanitation, track resolution progress, and interact with local municipal workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
